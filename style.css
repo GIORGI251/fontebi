@@ -1,0 +1,21 @@
+@font-face {
+    font-family: jacques;
+    src: url(FontS/JacquesFrancoisShadow-Regular.ttf);
+}
+h3{
+    font-family: jacques;
+}
+@font-face {
+    font-family: surfer;
+    src: url(FontS/OriginalSurfer-Regular.ttf);
+}
+.p1-fonts {
+    font-family: surfer;
+}
+@font-face {
+    font-family: play;
+    src: url(FontS/Play-Regular.ttf);
+}
+.p2-fonts {
+    font-family: play;
+}
